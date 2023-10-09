@@ -1,0 +1,1 @@
+- [ ] every character in the name of rule is capital
